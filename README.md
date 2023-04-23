@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on developing my ML skills.
-- 🌱 I’m currently learning Machine Learning and Data Science.
-- 👯 I’m looking to collaborate on any AI or ML projects.
+- 🔭 I’m currently working in Edvak Healthcare Inc. as a Data Scientist
+- 🌱 I’m currently learning Remote Sensing and GIS based technologies.
+- 👯 I’m looking to collaborate in Environment Data Science field.
+- 💬 Ask me about Automatic Speech Recognition,Conversational AI use cases and Geodata analysis.
+- 📫 Contact me at: chinmaypatil2000@gmail.com
 <!--
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ML
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
