@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working in Edvak Healthcare Inc. as a Data Scientist
-- 🌱 I’m currently learning Remote Sensing and GIS based technologies.
+- 🔭 I’m currently working at Endimension Technologies as an AI Engineer
 - 👯 I’m looking to collaborate in Environment Data Science field.
-- 💬 Ask me about Automatic Speech Recognition,Conversational AI use cases and Geodata analysis.
+- 💬 Ask me about Automatic Speech Recognition,Conversational AI use cases, Geodata and Medical data analysis.
 - 📫 Contact me at: chinmaypatil2000@gmail.com
 <!--
 - 🤔 I’m looking for help with ...
